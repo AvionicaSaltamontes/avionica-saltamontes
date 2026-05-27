@@ -8,8 +8,7 @@ const SocialMedia = () => {
   const facebookUrl = process.env.NEXT_PUBLIC_FACEBOOK_URL || "#";
   const messengerUrl = process.env.NEXT_PUBLIC_MESSENGER_URL || "#";
 
-  console.log("Messenger URL:", process.env.NEXT_PUBLIC_MESSENGER_URL);
-  
+
   return (
     <div className="flex flex-row md:flex-col justify-evenly">
       <div>
