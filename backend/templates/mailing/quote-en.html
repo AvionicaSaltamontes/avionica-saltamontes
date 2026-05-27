@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aviónica</title>
+</head>
+<body class="" style=" background-color: #f5f6fa; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; ">
+    <table border="0" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; width: 100%; background-color: #f5f6fa">
+        <tr>
+            <td style="font-family: sans-serif; font-size: 14px; vertical-align: top">&nbsp;</td>
+            <td class="container" style=" font-family: sans-serif; font-size: 14px; display: block; margin: 0 auto; max-width: 750px; width: 750px; ">
+                <div class="content" style="box-sizing: border-box; display: block; margin: 0 auto; max-width: 750px">
+                    <table class="main" style="border-collapse: separate; width: 100%">
+                        <tr>
+                            <td class="wrapper" style=" font-family: sans-serif; font-size: 14px; vertical-align: top; box-sizing: border-box; padding: 0px; ">
+                                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; width: 100%; background: #ffffff">
+                                    <tr>
+                                        <td style="font-family: sans-serif; font-size: 14px; vertical-align: top">
+                                            <img style="width: 100%; height: auto" alt="" src="{{mail_banner_primary_url}}" />
+                                            <div style="width: 100%; text-align: center; background: #a79132; padding: 10px 0px">
+                                                <label style="color: #ffffff; font-size: 18px; font-weight: 600">Thank you for requesting a quote with Aviónica!</label>
+                                            </div>
+
+                                            <div style="padding: 15px 35px">
+                                                <p style="font-size: 16px; font-weight: 600">Hello,</p>
+
+                                                <p>
+                                                    We have successfully received the details of your trip. Our team will review the information and share a personalized proposal with you shortly.
+                                                </p>
+
+                                                <p style="margin-top: 15px">
+                                                    Below is a summary of your request:
+                                                </p>
+
+                                                <p style="font-weight: 600; margin-bottom: 0px">
+                                                    Contact information
+                                                </p>
+
+                                                <p style="margin-top: 0px; margin-bottom: 0px">
+                                                    Name: {{name}}
+                                                </p>
+                                                <p style="margin-top: 0px; margin-bottom: 0px">
+                                                    Phone: {{phone}}
+                                                </p>
+                                                <p style="margin-top: 0px; margin-bottom: 0px">
+                                                    Email: {{email}}
+                                                </p>
+
+                                                <p style="font-weight: 600;">
+                                                    Trip details
+                                                </p>
+                                                <p style="margin-top: 0px; margin-bottom: 0px">
+                                                    <span style="font-weight: 600">Trip type:</span> {{type}}
+                                                </p>
+
+                                                <p style="margin-bottom: 0px">
+                                                    {{#if is_experiencia}}
+                                                </p>
+                                                <p style="margin-top: 0px; margin-bottom: 0px">
+                                                    <span style="font-weight: 600">Experience:</span> {{experienciaTipo}}
+                                                </p>
+                                                <p style="margin-top: 0px;">
+                                                    {{/if}}
+                                                </p>
+
+                                                <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; margin-top: 10px; margin-bottom: 10px;">
+                                                    <thead>
+                                                        <tr>
+                                                            <th align="left" style="text-align: left; padding: 4px 0;">Destination / location</th>
+                                                            <th align="left" style="text-align: left; padding: 4px 0;">Date</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        {{#each trip}}
+                                                        <tr>
+                                                            <td style="padding: 2px 0;">{{location}}</td>
+                                                            <td style="padding: 2px 0;">{{date}}</td>
+                                                        </tr>
+                                                        {{/each}}
+                                                    </tbody>
+                                                </table>
+
+                                                <p style="margin-bottom: 0px">
+                                                    <span style="font-weight: 600">Passengers:</span> {{adults}} adults, {{children}} children, {{infants}} infants
+                                                </p>
+                                                <p style="margin-top: 0px; margin-bottom: 0px">
+                                                    <span style="font-weight: 600">Have you rented an airplane before?:</span> {{rent}}
+                                                </p>
+
+
+
+                                                <p style="margin-bottom: 0px">
+                                                    Thank you for choosing Aviónica.
+                                                </p>
+                                                <p style="margin-top: 0px;">
+                                                    We will contact you shortly.
+                                                </p>
+
+                                                <p>
+                                                    Aviónica Team
+                                                </p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <img style="width: 100%; height: auto; margin-top: 15px"
+                         alt=""
+                         src="{{mail_banner_secondary_url}}" />
+                </div>
+            </td>
+            <td style="font-family: sans-serif; font-size: 14px; vertical-align: top">&nbsp;</td>
+        </tr>
+    </table>
+
+</body>
+</html>

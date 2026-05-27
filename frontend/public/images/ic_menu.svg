@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_menu</title>
+    <g id="Página-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1---JETCAR-México,-Home-Blue" transform="translate(-1113, -33)">
+            <g id="menu" transform="translate(1113, 33)">
+                <line x1="3" y1="7" x2="21" y2="7" id="Vector" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="0,0" fill-rule="nonzero"></line>
+                <line x1="3" y1="12" x2="21" y2="12" id="Vector" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="0,0" fill-rule="nonzero"></line>
+                <line x1="3" y1="17" x2="21" y2="17" id="Vector" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="0,0" fill-rule="nonzero"></line>
+                <path d="M24,0 L24,24 L0,24 L0,0 L24,0 Z" id="Vector" opacity="0"></path>
+            </g>
+        </g>
+    </g>
+</svg>

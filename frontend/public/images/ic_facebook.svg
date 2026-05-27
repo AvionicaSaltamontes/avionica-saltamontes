@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_facebook</title>
+    <g id="Página-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aviónica-Saltamontes----Web-A" transform="translate(-1046, -3022)">
+            <g id="ic_facebook" transform="translate(1046, 3022)">
+                <g id="ic_facebook-copia-2" transform="translate(14, 10)" fill="#000E25">
+                    <path d="M5.15106881,15.2814111 L5.15106881,8.31081915 L7.49077476,8.31081915 L7.84111254,5.59425576 L5.15106881,5.59425576 L5.15106881,3.85990168 C5.15106881,3.07339389 5.36947116,2.53741478 6.49731294,2.53741478 L7.93582108,2.53678619 L7.93582108,0.107070103 C7.68703656,0.0739642789 6.83312315,0 5.83966133,0 C3.76564216,0 2.34571255,1.26598349 2.34571255,3.59086447 L2.34571255,5.59425576 L0,5.59425576 L0,8.31081915 L2.34571255,8.31081915 L2.34571255,15.2814111 L5.15106881,15.2814111 Z" id="Facebook-Copia"></path>
+                </g>
+                <circle id="Oval" stroke="#000E25" stroke-width="0.5" cx="17.5" cy="17.5" r="17.25"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

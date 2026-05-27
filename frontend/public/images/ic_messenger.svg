@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_messenger</title>
+    <g id="Página-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aviónica-Saltamontes----Web-A" transform="translate(-1046, -2926)">
+            <g id="ic_messenger" transform="translate(1046, 2926)">
+                <g id="messenger" transform="translate(6, 6)">
+                    <path d="M23,0 L23,23 L0,23 L0,0 L23,0 Z" id="BG-1" opacity="0.579999983"></path>
+                    <path d="M5.46249982,21.0833333 L8.625,19.2625004 C9.48749998,19.5500004 10.4458333,19.6458333 11.5,19.6458333 C16.7708333,19.6458333 21.0833333,15.7166663 21.0833333,10.7333332 C21.0833333,5.84583324 16.7708333,1.91666667 11.5,1.91666667 C6.22916667,1.91666667 1.91666667,5.8458337 1.91666667,10.8291668 C1.91666667,13.6083336 3.2583332,16.0041663 5.46249982,17.633333 L5.46249982,21.0833333 Z" id="Vector" stroke="#000E25" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" fill-rule="nonzero"></path>
+                    <path d="M7.1875,13.1291199 L10.7333332,12.2666202 L12.1708332,13.1291199 L15.8125,8.81661987 L12.4583333,9.67912042 L10.8291668,8.81661987 L7.1875,13.1291199 Z" id="Vector" stroke="#000E25" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" fill-rule="nonzero"></path>
+                    <path d="M23,0 L23,23 L0,23 L0,0 L23,0 Z" id="Vector" opacity="0"></path>
+                </g>
+                <circle id="Oval-Copy-5" stroke="#000E25" stroke-width="0.5" cx="17.5" cy="17.5" r="17.25"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

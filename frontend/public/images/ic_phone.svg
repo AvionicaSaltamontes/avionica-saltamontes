@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_phone</title>
+    <g id="Página-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aviónica-Saltamontes----Web-A" transform="translate(-657, -3063)">
+            <g id="ic_phone" transform="translate(657, 3063)">
+                <circle id="Óvalo-Copia-6" fill="#A89132" cx="20" cy="20" r="20"></circle>
+                <g id="vuesax/bold/mobile" transform="translate(11, 11)">
+                    <g transform="translate(0, 0)" id="mobile">
+                        <path d="M5.82000017,1.5 C3.75000018,1.5 3,2.25 3,4.35749996 L3,13.6425004 C3,15.7500004 3.75000018,16.5 5.82000017,16.5 L12.1724997,16.5 C14.2499996,16.5 15,15.7500004 15,13.6425004 L15,4.35749996 C15,2.25 14.2499998,1.5 12.1799998,1.5 L5.82000017,1.5 Z M7.6875,13.1624994 C7.6875,12.4424994 8.28000002,11.8500001 9,11.8500001 C9.71999998,11.8500001 10.3125,12.4424994 10.3125,13.1624994 C10.3125,13.8824994 9.71999998,14.4749994 9,14.4749994 C8.28000002,14.4749994 7.6875,13.8824994 7.6875,13.1624994 Z M7.5,4.6875 C7.1925,4.6875 6.9375,4.4325 6.9375,4.125 C6.9375,3.8175 7.1925,3.5625 7.5,3.5625 L10.5,3.5625 C10.8075,3.5625 11.0625,3.8175 11.0625,4.125 C11.0625,4.4325 10.8075,4.6875 10.5,4.6875 L7.5,4.6875 Z" id="Vector" fill="#FFFFFF"></path>
+                        <path d="M18,0 L18,18 L0,18 L0,0 L18,0 Z" id="Vector" opacity="0" transform="translate(9, 9) rotate(-180) translate(-9, -9)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

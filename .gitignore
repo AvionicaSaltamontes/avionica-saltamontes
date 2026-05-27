@@ -1,0 +1,28 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Frontend build output
+.next/
+out/
+dist/
+build/
+
+# Backend/runtime output
+*.log
+logs/
+
+# System/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local agent metadata
+.git/
+.agents/
+.codex/
