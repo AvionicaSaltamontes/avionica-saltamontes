@@ -1,6 +1,7 @@
-const configuredApiBaseUrl = process.env.NEXT_PUBLIC_API_BASE_URL || "https://api.example.com/services/transactional/mailing/";
+const configuredApiBaseUrl = process.env.NEXT_PUBLIC_API_BASE_URL || "https://api.example.com/api/services/transactional/mailing/";
 
 export const urlApi = configuredApiBaseUrl.endsWith("/") ? configuredApiBaseUrl : `${configuredApiBaseUrl}/`;
+console.log("API URL:", urlApi);
 
 export const post = async (url, obj) => {
   let data = null;
@@ -16,6 +17,8 @@ export const post = async (url, obj) => {
     },
   };
 
+  console.log("FETCH URL:", url);
+  console.log("REQUEST:", request);
   await fetch(url, request)
     .then(async (res) => {
       status = res.status;
