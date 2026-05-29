@@ -106,7 +106,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\FloralyGamez\\Downloads\\avionica-saltamontes-main2\\frontend",
+    "outputFileTracingRoot": "C:\\Users\\FloralyGamez\\Downloads\\avionica-saltamontes-main\\frontend",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -302,11 +302,11 @@ self.__SERVER_FILES_MANIFEST={
       "resolveAlias": {
         "next-intl/config": "./src/i18n/request.js"
       },
-      "root": "C:\\Users\\FloralyGamez\\Downloads\\avionica-saltamontes-main2\\frontend"
+      "root": "C:\\Users\\FloralyGamez\\Downloads\\avionica-saltamontes-main\\frontend"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\FloralyGamez\\Downloads\\avionica-saltamontes-main2\\frontend",
+  "appDir": "C:\\Users\\FloralyGamez\\Downloads\\avionica-saltamontes-main\\frontend",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
