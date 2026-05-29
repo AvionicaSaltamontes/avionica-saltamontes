@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/cotizacion/page": [
+      "static/media/calibri_bold-s.p.c61a621b.ttf",
+      "static/media/calibri_regular-s.p.4aa6c0f1.ttf"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

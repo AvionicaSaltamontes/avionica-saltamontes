@@ -1,0 +1,26 @@
+/* [project]/src/app/calibriregular_f6c2518f.module.css [app-client] (css) */
+@font-face {
+  font-family: calibriRegular;
+  src: url("../media/calibri_regular-s.p.4aa6c0f1.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: calibriRegular Fallback;
+  src: local(Arial);
+  ascent-override: 81.67%;
+  descent-override: 27.22%;
+  line-gap-override: 24.03%;
+  size-adjust: 91.83%;
+}
+
+.calibriregular_f6c2518f-module__9sCePa__className {
+  font-family: calibriRegular, calibriRegular Fallback;
+}
+
+.calibriregular_f6c2518f-module__9sCePa__variable {
+  --font-calibri-regular: "calibriRegular", "calibriRegular Fallback";
+}
+
+/*# sourceMappingURL=src_app_calibriregular_f6c2518f_module_css_bad6b30c._.single.css.map*/

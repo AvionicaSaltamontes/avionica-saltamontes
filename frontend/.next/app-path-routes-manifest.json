@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/cotizacion/page": "/cotizacion",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/politicas-de-privacidad/page": "/politicas-de-privacidad",
+  "/terminos-y-condiciones/page": "/terminos-y-condiciones"
+}

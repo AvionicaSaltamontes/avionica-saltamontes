@@ -1,0 +1,26 @@
+/* [project]/src/app/calibri_d686f0a3.module.css [app-client] (css) */
+@font-face {
+  font-family: calibri;
+  src: url("../media/calibri_bold-s.p.c61a621b.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: calibri Fallback;
+  src: local(Arial);
+  ascent-override: 79.7%;
+  descent-override: 26.57%;
+  line-gap-override: 23.45%;
+  size-adjust: 94.11%;
+}
+
+.calibri_d686f0a3-module__lPb48W__className {
+  font-family: calibri, calibri Fallback;
+}
+
+.calibri_d686f0a3-module__lPb48W__variable {
+  --font-calibri-bold: "calibri", "calibri Fallback";
+}
+
+/*# sourceMappingURL=src_app_calibri_d686f0a3_module_css_bad6b30c._.single.css.map*/
