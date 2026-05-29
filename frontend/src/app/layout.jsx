@@ -29,6 +29,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   const googleAnalyticsId = process.env.NEXT_PUBLIC_GA_ID;
   const recaptchaKey = process.env.NEXT_PUBLIC_RECAPTCHA_KEY;
+  console.log("RECAPTCHA KEY =", recaptchaKey);
 
   return (
     <html lang="en">
