@@ -3,4 +3,4 @@
 :HL["/_next/static/media/calibri_regular-s.p.4aa6c0f1.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/images/ic_mx.svg","image"]
 :HL["/images/ic_us.svg","image"]
-0:{"buildId":"JRPjHn_rFPLursXMciaq0","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"terminos-y-condiciones","paramType":null,"paramKey":"terminos-y-condiciones","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"TAkJ6fcWakJydDDnfzR0d","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"terminos-y-condiciones","paramType":null,"paramKey":"terminos-y-condiciones","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
