@@ -3551,7 +3551,7 @@ __turbopack_context__.s([
     "urlApi",
     ()=>urlApi
 ]);
-const configuredApiBaseUrl = ("TURBOPACK compile-time value", "https://asabackend.ialumbra-test.com/") || "https://api.example.com/services/transactional/mailing/";
+const configuredApiBaseUrl = ("TURBOPACK compile-time value", "https://asabackend.ialumbra-test.com/nservices/transactional/mailing/") || "https://api.example.com/services/transactional/mailing/";
 const urlApi = configuredApiBaseUrl.endsWith("/") ? configuredApiBaseUrl : `${configuredApiBaseUrl}/`;
 const post = async (url, obj)=>{
     let data = null;

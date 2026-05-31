@@ -3,4 +3,4 @@
 :HL["/_next/static/media/calibri_regular-s.p.4aa6c0f1.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/images/ic_mx.svg","image"]
 :HL["/images/ic_us.svg","image"]
-0:{"buildId":"TAkJ6fcWakJydDDnfzR0d","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"politicas-de-privacidad","paramType":null,"paramKey":"politicas-de-privacidad","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"EFykLgoFD8ozK08aPE2tQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"politicas-de-privacidad","paramType":null,"paramKey":"politicas-de-privacidad","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

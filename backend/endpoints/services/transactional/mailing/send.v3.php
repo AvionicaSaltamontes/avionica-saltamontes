@@ -222,14 +222,12 @@ function send_html_mail(string $to, string $subject, string $html): bool
     $mail->Subject = $subject;
     $mail->Body    = $html;
     $mail->AltBody = strip_tags($html);
+    
 
     if (!$mail->send()) {
         error_log('PHPMailer error: ' . $mail->ErrorInfo);
         return false;
     }
-
-    return true;
-}
 
 
 $tpl = isset($_GET['tpl']) ? (string)$_GET['tpl'] : '';
