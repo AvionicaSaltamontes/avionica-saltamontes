@@ -4214,7 +4214,7 @@ __turbopack_context__.s([
     ()=>urlApi
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
-const configuredApiBaseUrl = ("TURBOPACK compile-time value", "https://asabackend.ialumbra-test.com/nservices/transactional/mailing/") || "https://api.example.com/services/transactional/mailing/";
+const configuredApiBaseUrl = ("TURBOPACK compile-time value", "https://asabackend.ialumbra-test.com/services/transactional/mailing/") || "https://api.example.com/services/transactional/mailing/";
 const urlApi = configuredApiBaseUrl.endsWith("/") ? configuredApiBaseUrl : `${configuredApiBaseUrl}/`;
 const post = async (url, obj)=>{
     let data = null;

@@ -224,11 +224,15 @@ function send_html_mail(string $to, string $subject, string $html): bool
     $mail->AltBody = strip_tags($html);
     
 
-    if (!$mail->send()) {
-        error_log('PHPMailer error: ' . $mail->ErrorInfo);
-        return false;
-    }
+if (!$mail->send()) {
+    http_response_code(400);
 
+    die(json_encode([
+        'success' => false,
+        'smtp_error' => $mail->ErrorInfo
+    ]));
+}
+}
 
 $tpl = isset($_GET['tpl']) ? (string)$_GET['tpl'] : '';
 
